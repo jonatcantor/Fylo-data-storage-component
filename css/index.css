@@ -227,6 +227,7 @@ footer a {
     width: 38%;
     min-width: 250px;
     margin-left: 0;
+    margin-top: 20px;
   }
 
   .card__text {
