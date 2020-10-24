@@ -8,4 +8,4 @@ Made with only HTML and CSS.
 
 ## Image
 
-![Preview Image]()
+![Preview Image](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,g_north,w_800,h_600,c_fill/Screenshots/dowz4ukptbi3hk3mdwlg.jpg)
