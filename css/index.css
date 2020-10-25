@@ -162,6 +162,18 @@ footer a {
   border-radius: inherit;
 }
 
+.bar__value::after{
+  display: block;
+  position: relative;
+  top: calc(50% - 0.4rem);
+  left: calc(100% - 1rem);
+  content: '';
+  width: 0.8rem;
+  height: 0.8rem;
+  border-radius: 50%;
+  background-color: white;
+}
+
 .bar-text-limits {
   width: 100%;
   display: flex;
