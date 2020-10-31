@@ -1,6 +1,6 @@
 # Fylo data storage component
 
-A Fylo data storage component for a Frontend Mentor challenge.
+A Fylo data storage component for a [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n).
 
 Made with only HTML and CSS.
 
