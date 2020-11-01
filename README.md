@@ -4,7 +4,7 @@ A Fylo data storage component for a [Frontend Mentor challenge](https://www.fron
 
 Made with only HTML and CSS.
 
-[Preview Site](https://jonathan-cantor.github.io/Fylo-data-storage-component/)
+[Preview Site](https://jonatcantor.github.io/Fylo-data-storage-component/)
 
 ## Image
 
